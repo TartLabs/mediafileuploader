@@ -16,4 +16,5 @@
 <h3>Call back receiver</h3>
   <p> If you register the call back receiver, its return Upload status and upload id</p>
   <p> Upload status parsing key <code>status</code></p>
-  <p> Two type of status return <code>1. success</code>. <code>2. failure</code></p>
+  <p> Upload id parsing key <code>uploadId</code>
+  <p> Two type of status return <code>1. success</code>  <code>2. failure</code></p>
